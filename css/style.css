@@ -1,0 +1,25 @@
+.mypink{
+font-family: Arial, Helvetica, sans-serif;
+font-size:24px;
+color:hotpink;
+}
+.bold{
+  font-size:32px;
+  font-weight: bold;
+  color: greenyellow;
+}
+h2.mypink{
+  color: blue;
+
+}
+#breadtext{
+  color:teal;
+  text-decoration: underline;
+}
+.box{
+  border:5px solid blue;
+  display:inline-block;
+  margin:130px 50px ;
+  padding:16px ;
+
+}
